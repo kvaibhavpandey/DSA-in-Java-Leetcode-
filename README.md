@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
