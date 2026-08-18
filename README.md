@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
