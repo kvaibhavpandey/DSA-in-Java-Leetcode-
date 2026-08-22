@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
