@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
