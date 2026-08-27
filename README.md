@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Manacher
 |  |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
