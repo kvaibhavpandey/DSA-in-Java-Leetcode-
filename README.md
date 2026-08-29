@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
