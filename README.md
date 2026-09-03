@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0093-restore-ip-addresses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
 | [0344-reverse-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0344-reverse-string) |
 ## Trie
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0093-restore-ip-addresses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
 ## Heap (Priority Queue)
 |  |
