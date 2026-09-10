@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
