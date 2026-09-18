@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
