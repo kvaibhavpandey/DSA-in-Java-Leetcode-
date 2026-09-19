@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0836-rectangle-overlap) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
