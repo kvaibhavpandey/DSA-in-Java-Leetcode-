@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
 | [0344-reverse-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0344-reverse-string) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
