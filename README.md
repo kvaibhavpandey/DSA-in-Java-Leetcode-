@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0283-move-zeroes) |
+| [0335-self-crossing](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0268-missing-number) |
+| [0335-self-crossing](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0335-self-crossing) |
 | [0836-rectangle-overlap](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0836-rectangle-overlap) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Manacher
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0335-self-crossing) |
 | [0836-rectangle-overlap](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0836-rectangle-overlap) |
 ## Sliding Window
 |  |
