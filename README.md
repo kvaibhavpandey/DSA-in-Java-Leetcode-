@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0212-word-search-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0212-word-search-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0212-word-search-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0212-word-search-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
