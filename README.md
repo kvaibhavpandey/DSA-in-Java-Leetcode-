@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
@@ -150,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0085-maximal-rectangle) |
 ## Linked List
 |  |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0099-recover-binary-search-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
