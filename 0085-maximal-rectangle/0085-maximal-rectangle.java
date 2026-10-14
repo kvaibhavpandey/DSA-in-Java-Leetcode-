@@ -1,16 +1,19 @@
+
+import java.util.*;
+
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        if (matrix.length == 0) {
+        if (matrix == null || matrix.length == 0) {
             return 0;
         }
 
+        int rows = matrix.length;
         int cols = matrix[0].length;
         int[] heights = new int[cols];
         int maxArea = 0;
 
-        for (int i = 0; i < matrix.length; i++) {
+        for (int i = 0; i < rows; i++) {
 
-            // Build histogram for current row
             for (int j = 0; j < cols; j++) {
                 if (matrix[i][j] == '1') {
                     heights[j]++;
@@ -19,37 +22,26 @@ class Solution {
                 }
             }
 
-            // Find largest rectangle in histogram
-            maxArea = Math.max(maxArea, largestRectangle(heights));
-        }
+            Stack<Integer> stack = new Stack<>();
 
-        return maxArea;
-    }
+            for (int j = 0; j <= cols; j++) {
+                int currentHeight =
+                    (j == cols) ? 0 : heights[j];
 
-    private int largestRectangle(int[] heights) {
-        int n = heights.length;
-        int[] stack = new int[n + 1];
-        int top = -1;
-        int maxArea = 0;
+                while (!stack.isEmpty()
+                        && heights[stack.peek()] > currentHeight) {
 
-        for (int i = 0; i <= n; i++) {
+                    int height = heights[stack.pop()];
 
-            int currentHeight = (i == n) ? 0 : heights[i];
+                    int width = stack.isEmpty()
+                        ? j
+                        : j - stack.peek() - 1;
 
-            while (top >= 0 && heights[stack[top]] > currentHeight) {
-                int height = heights[stack[top--]];
-
-                int width;
-                if (top == -1) {
-                    width = i;
-                } else {
-                    width = i - stack[top] - 1;
+                    maxArea = Math.max(maxArea, height * width);
                 }
 
-                maxArea = Math.max(maxArea, height * width);
+                stack.push(j);
             }
-
-            stack[++top] = i;
         }
 
         return maxArea;
