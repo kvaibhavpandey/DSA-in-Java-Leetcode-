@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0127-word-ladder) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
