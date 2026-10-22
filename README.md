@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0312-burst-balloons) |
 | [0335-self-crossing](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0494-target-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0494-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0312-burst-balloons) |
+| [0494-target-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0494-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -344,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
