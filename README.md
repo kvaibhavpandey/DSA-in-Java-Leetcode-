@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0312-burst-balloons) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0212-word-search-ii) |
