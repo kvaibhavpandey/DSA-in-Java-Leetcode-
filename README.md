@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0064-minimum-path-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0085-maximal-rectangle) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0055-jump-game) |
 ## Bit Manipulation
 |  |
