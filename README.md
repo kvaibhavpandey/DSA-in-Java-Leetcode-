@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0046-permutations) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/kvaibhavpandey/DSA-in-Java-Leetcode-/tree/master/0126-word-ladder-ii) |
